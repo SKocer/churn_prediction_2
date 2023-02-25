@@ -166,6 +166,3 @@ st.write("Find me on [LinkedIn](https://www.linkedin.com/in/xxxxx/) / [GitHub](h
 
 
 #st.markdown('[![](left.jpg)](site.com)')
-
-if __name__ == '__main__':
-    main()
